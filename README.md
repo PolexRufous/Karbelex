@@ -1,7 +1,7 @@
 # Karbelex
 Rage of steel
 
-This is a game
-.... ??
+This is just a game
+.... isn't it??
 
 Wanna play?
